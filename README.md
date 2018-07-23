@@ -12,7 +12,7 @@
 
 ## 原始资源
 - [在线版本](https://www.restapitutorial.com)
-- [电子书](https://github.com/heshengbang/RESTful-Service-Best-Practices)
+- [电子书](https://github.com/heshengbang/RESTful-Service-Best-Practices/raw/master/original_version/RESTful%20Best%20Practices-v1_2_1.pdf)
 
 ## 目录
 - 历史版本
@@ -111,7 +111,7 @@
 
 ## Original Resource
 - [online](https://www.restapitutorial.com)
-- [eBook](https://github.com/heshengbang/RESTful-Service-Best-Practices)
+- [eBook](https://github.com/heshengbang/RESTful-Service-Best-Practices/raw/master/original_version/RESTful%20Best%20Practices-v1_2_1.pdf)
 
 ## Table of Contents
 - Document History
