@@ -89,7 +89,7 @@
 	- 应用安全性
 - 缓存与可扩展性
 	- 关于ETag Header
-- HTTP 状态码(Top 10)
+- [HTTP 状态码(Top 10)](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/HTTP_Status_Code_Top10.md)
 - 其他的资源
 	- 书籍
 	- 站点
