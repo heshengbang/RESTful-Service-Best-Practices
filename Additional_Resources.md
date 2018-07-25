@@ -6,7 +6,6 @@
 - 书名《REST in Practice》，作者是Hypermedia和 Systems Architecture、Jim Webber等人，2010年由O'Reilly Media出版
 - 书名《APIs: A Strategy Guide》，作者是Daniel Jacobson和Greg Brail、Dan Woods，2011年由O'Reilly Media出版
 
-<br />
 ## 站点<div id="websites" />
 - [学习REST：一个RESTful教程](http://www.restapitutorial.com)
 - [作者的个人网站](http://www.toddfredrich.com)
