@@ -17,7 +17,7 @@
 ## 目录
 - [历史版本](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/Document_History_And_Who_Should_Read.md#document_history)
 - [谁应当阅读这个文档](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/Document_History_And_Who_Should_Read.md#who_should_read)
-- 介绍
+- [介绍](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/Introduction.md)
 - 什么是REST?
 	- 接口统一
 		- 基于资源
