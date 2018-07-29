@@ -20,10 +20,10 @@
 - [介绍](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/Introduction.md)
 - [什么是REST?](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/What_is_REST.md)
 	- [接口统一](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/What_is_REST.md#uniform_interface)
-		- 基于资源
-		- 通过代理来操纵资源
-		- 自描述性消息
-		- 超媒体作为应用程序状态引擎（HATEOAS）
+		- [基于资源](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/What_is_REST.md#Resource_Based)
+		- [通过代理来操纵资源](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/What_is_REST.md#Manipulation_of_Resources_Through_Representations)
+		- [自描述性消息](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/What_is_REST.md#Self_descriptive_Messages)
+		- [超媒体作为应用程序状态引擎（HATEOAS）](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/What_is_REST.md#HATEOAS)
 	- [无状态](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/What_is_REST.md#stateless)
 	- [可缓存](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/What_is_REST.md#cacheable)
 	- [客户端-服务器模式](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/What_is_REST.md#client_server)
