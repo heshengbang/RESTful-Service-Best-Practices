@@ -29,12 +29,12 @@
 	- [客户端-服务器模式](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/What_is_REST.md#client_server)
 	- [分层系统](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/What_is_REST.md#layered_system)
 	- [按需编程（可选）](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/What_is_REST.md#code_on_demand)
-- REST 快速入门提示
-	- 使用HTTP的动词来表示某事
-	- 资源名应具备良好的可读性
-	- XML和JSON
-	- 创建细粒度的资源
-	- 基于连通性的考虑
+- [REST快速入门](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/REST_Quick_Tips.md)
+	- [使用HTTP的动词来表示某事](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/REST_Quick_Tips.md#Use_HTTP_Verbs_to_Mean_Something)
+	- [资源名应具备良好的可读性](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/REST_Quick_Tips.md#Sensible_Resource_Names)
+	- [XML和JSON](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/REST_Quick_Tips.md#XML_and_JSON)
+	- [创建细粒度的资源](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/REST_Quick_Tips.md#Create_Fine_Grained_Resources)
+	- [基于连通性的考虑](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/REST_Quick_Tips.md#Consider_Connectedness)
 - 定义
 	- 幂等
 	- 安全
