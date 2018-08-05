@@ -35,9 +35,9 @@
 	- [XML和JSON](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/REST_Quick_Tips.md#XML_and_JSON)
 	- [创建细粒度的资源](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/REST_Quick_Tips.md#Create_Fine_Grained_Resources)
 	- [基于连通性的考虑](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/REST_Quick_Tips.md#Consider_Connectedness)
-- [定义](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/Introduction.md)
-	- [幂等](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/Introduction.md#Idempotence)
-	- [安全](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/Introduction.md#Safety)
+- [定义](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/Definitions.md)
+	- [幂等](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/Definitions.md#Idempotence)
+	- [安全](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/Definitions.md#Safety)
 - HTTP的动词
 	- GET
 	- PUT
