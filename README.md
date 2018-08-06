@@ -38,7 +38,7 @@
 - [定义](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/Definitions.md)
 	- [幂等](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/Definitions.md#Idempotence)
 	- [安全](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/Definitions.md#Safety)
-- HTTP的动词
+- [HTTP的动词](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/HTTP_Verbs.md)
 	- GET
 	- PUT
 	- POST
