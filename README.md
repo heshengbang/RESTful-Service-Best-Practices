@@ -39,11 +39,11 @@
 	- [幂等](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/Definitions.md#Idempotence)
 	- [安全](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/Definitions.md#Safety)
 - [HTTP的动词](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/HTTP_Verbs.md)
-	- GET
-	- PUT
-	- POST
-	- 创建时使用PUT vs POST？
-	- DELETE
+	- [GET](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/HTTP_Verbs.md#get)
+	- [PUT](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/HTTP_Verbs.md#put)
+	- [POST](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/HTTP_Verbs.md#post)
+	- [创建时使用PUT vs POST？](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/HTTP_Verbs.md#putvspost)
+	- [DELETE](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/HTTP_Verbs.md#delete)
 - 资源命名
 	- 资源URI示例
 	- 资源命名反模式
