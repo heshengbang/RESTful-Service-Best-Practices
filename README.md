@@ -44,10 +44,10 @@
 	- [POST](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/HTTP_Verbs.md#post)
 	- [创建时使用PUT vs POST？](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/HTTP_Verbs.md#putvspost)
 	- [DELETE](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/HTTP_Verbs.md#delete)
-- 资源命名
-	- 资源URI示例
-	- 资源命名反模式
-	- 多元化
+- [资源命名}(https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/Resource_Naming.md)
+	- [资源URI示例](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/Resource_Naming.md#rue)
+	- [资源命名反模式](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/Resource_Naming.md#rnap)
+	- [多元化](https://github.com/heshengbang/RESTful-Service-Best-Practices/blob/master/Resource_Naming.md#plura)
 - Returning Representation
 	- 通过链接发现资源（HATEOAS续）
 		- 最小连接建议

@@ -1,11 +1,10 @@
 # 资源命名
 
-<div id="rue"></div>
-## 资源URI示例
+
+## <div id="rue">资源URI示例</div>
 
 
-<div id="rnap"></div>
-## 资源命名反模式
+## <div id="rnap">资源命名反模式</div>
 
-<div id="plura"></div>
-## 多元化
+
+## <div id="plura">多元化</div>
